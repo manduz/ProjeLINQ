@@ -1,0 +1,10 @@
+C:\EmekWebRepo\C#\ProjeLINQ\LINQ_Proje1\LINQ_Proje1\bin\Debug\LINQ_Proje1.exe.config
+C:\EmekWebRepo\C#\ProjeLINQ\LINQ_Proje1\LINQ_Proje1\bin\Debug\LINQ_Proje1.exe
+C:\EmekWebRepo\C#\ProjeLINQ\LINQ_Proje1\LINQ_Proje1\bin\Debug\LINQ_Proje1.pdb
+C:\EmekWebRepo\C#\ProjeLINQ\LINQ_Proje1\LINQ_Proje1\obj\Debug\LINQ_Proje1.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\ProjeLINQ\LINQ_Proje1\LINQ_Proje1\obj\Debug\LINQ_Proje1.Form1.resources
+C:\EmekWebRepo\C#\ProjeLINQ\LINQ_Proje1\LINQ_Proje1\obj\Debug\LINQ_Proje1.Properties.Resources.resources
+C:\EmekWebRepo\C#\ProjeLINQ\LINQ_Proje1\LINQ_Proje1\obj\Debug\LINQ_Proje1.csproj.GenerateResource.cache
+C:\EmekWebRepo\C#\ProjeLINQ\LINQ_Proje1\LINQ_Proje1\obj\Debug\LINQ_Proje1.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\ProjeLINQ\LINQ_Proje1\LINQ_Proje1\obj\Debug\LINQ_Proje1.exe
+C:\EmekWebRepo\C#\ProjeLINQ\LINQ_Proje1\LINQ_Proje1\obj\Debug\LINQ_Proje1.pdb

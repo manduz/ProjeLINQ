@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\EmekWebRepo\\C#\\ProjeLINQ\\LINQ_Proje1\\LINQ_Proje1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56481E2A-8443-4BC8-9B58-1F83AC095437}|LINQ_Proje1.csproj|C:\\EmekWebRepo\\C#\\ProjeLINQ\\LINQ_Proje1\\LINQ_Proje1\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56481E2A-8443-4BC8-9B58-1F83AC095437}|LINQ_Proje1.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56481E2A-8443-4BC8-9B58-1F83AC095437}|LINQ_Proje1.csproj|c:\\emekwebrepo\\c#\\projelinq\\linq_proje1\\linq_proje1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56481E2A-8443-4BC8-9B58-1F83AC095437}|LINQ_Proje1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56481E2A-8443-4BC8-9B58-1F83AC095437}|LINQ_Proje1.csproj|C:\\EmekWebRepo\\C#\\ProjeLINQ\\LINQ_Proje1\\LINQ_Proje1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56481E2A-8443-4BC8-9B58-1F83AC095437}|LINQ_Proje1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\EmekWebRepo\\C#\\ProjeLINQ\\LINQ_Proje1\\LINQ_Proje1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\EmekWebRepo\\C#\\ProjeLINQ\\LINQ_Proje1\\LINQ_Proje1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAlwK0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:08:04.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\EmekWebRepo\\C#\\ProjeLINQ\\LINQ_Proje1\\LINQ_Proje1\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "C:\\EmekWebRepo\\C#\\ProjeLINQ\\LINQ_Proje1\\LINQ_Proje1\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:34:21.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\EmekWebRepo\\C#\\ProjeLINQ\\LINQ_Proje1\\LINQ_Proje1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\EmekWebRepo\\C#\\ProjeLINQ\\LINQ_Proje1\\LINQ_Proje1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:31:32.993Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
